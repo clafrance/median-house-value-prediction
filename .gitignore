@@ -109,3 +109,9 @@ venv.bak/
 DS_Store.dms
 .DS_Store
 .sqlite
+
+# api keys
+config.py
+
+# data files
+data
