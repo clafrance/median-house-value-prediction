@@ -115,3 +115,4 @@ config.py
 
 # data files
 data
+rf_model.sav
